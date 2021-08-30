@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DJ_PLAYLISTS Version="1.0.0">
+  <PRODUCT Name="rekordbox" Version="6.5.3" Company="AlphaTheta"/>
+  <COLLECTION Entries="1">
+    <TRACK TrackID="4436436" Name="Star Eater" Artist="Daniel Deluxe" Composer=""
+           Album="" Grouping="" Genre="" Kind="MP3 файл" Size="11160943"
+           TotalTime="272" DiscNumber="0" TrackNumber="3" Year="2015" AverageBpm="95.00"
+           DateAdded="2021-08-28" BitRate="320" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/D:/UnityProjects/Work/BeatKiller_VR/Assets/Sounds/Daniel%20Deluxe%20-%20Star%20Eater.mp3"
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.046" Bpm="95.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.046" Num="7" Red="195" Green="175"
+                     Blue="4"/>
+      <POSITION_MARK Name="" Type="0" Start="40.468" Num="6" Red="31" Green="163"
+                     Blue="146"/>
+      <POSITION_MARK Name="" Type="0" Start="186.995" Num="0" Red="40" Green="226"
+                     Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="179.416" Num="1" Red="100" Green="115"
+                     Blue="255"/>
+      <POSITION_MARK Name="" Type="0" Start="171.837" Num="2" Red="222" Green="68"
+                     Blue="207"/>
+    </TRACK>
+  </COLLECTION>
+  <PLAYLISTS>
+    <NODE Type="0" Name="ROOT" Count="0"/>
+  </PLAYLISTS>
+</DJ_PLAYLISTS>
